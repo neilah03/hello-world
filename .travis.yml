@@ -5,5 +5,4 @@ language:
   - "3.8"
   - "nightly"
  scripts:
-  - python -m doctest counter.py
   - pytest
