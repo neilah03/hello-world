@@ -16,4 +16,4 @@ def test_sub():
   assert sub(9) == 8
   
 def test_doub():
-  assert doub(6) == 12
+  assert doub(5) == 10
